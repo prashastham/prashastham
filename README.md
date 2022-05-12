@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/github/followers/prashastham?label=follow&style=social" height="22" title="Follow me" />](https://github.com/prashastham) 
 [<img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashastha-mudannayake/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/prashastha-mudannayake/) 
-[<img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.instagram.com/tharinda_dilshan97" height="22" title="Instagram" />](https://www.instagram.com/tharinda_dilshan97)
+[<img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/PrashasthaMuda2" height="22" title="Instagram" />](https://twitter.com/PrashasthaMuda2)
 
 <p align="center">
   <a href="https://github.com/prashastham/github-readme-stats">
