@@ -19,7 +19,7 @@
     <img
       align="left"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=prashastham&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=prashastham&count_private=false&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
     />
   </a>
 </p>
