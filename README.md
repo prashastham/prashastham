@@ -8,23 +8,10 @@
 [<img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashastha-mudannayake/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/prashastha-mudannayake/) 
 [<img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Prashastha4Real" height="22" title="Twitter" />](https://twitter.com/Prashastha4Real)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prashastham&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=prashastham&theme=dark)](https://gh-readme-profile.vercel.app/api?username=prashastham&theme=dark)
 
-<p align="center">
-  <a href="https://github.com/prashastham/github-readme-stats">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashastham&exclude_repo=cravingslk-cms-joomla&langs_count=6&layout=compact&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/prashastham/github-readme-stats">
-    <img
-      align="left"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=prashastham&count_private=false&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
-    />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashastham&theme=dark)](https://streak-stats.demolab.com?user=prashastham&theme=dark)
+
 
 <!--
 **prashastham/prashastham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
