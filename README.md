@@ -10,8 +10,7 @@
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=prashastham&theme=dark)](https://gh-readme-profile.vercel.app/api?username=prashastham&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashastham&theme=dark)](https://streak-stats.demolab.com?user=prashastham&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prashastham&theme=dark)](https://streak-stats.demolab.com/?user=prashastham&theme=dark)
 
 <!--
 **prashastham/prashastham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
