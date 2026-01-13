@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashastha-mudannayake/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/prashastha-mudannayake/) 
 [<img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Prashastha4Real" height="22" title="Twitter" />](https://twitter.com/Prashastha4Real)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashastham&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prashastham&theme=dark" alt="GitHub Streak" /></a>
 
 <p align="center">
   <a href="https://github.com/prashastham/github-readme-stats">
